@@ -1,16 +1,13 @@
-## cleaver-retro
+## cleaver-i2btech
 
-A dark, retro theme for [Cleaver](http://jdan.github.io/cleaver). Used for my
-[prolog talk](http://jdan.github.io/prolog-talk).
-
-![retro](https://i.cloudup.com/HLtcPJWJJl-3000x3000.png)
+Dark theme for [Cleaver](http://jdan.github.io/cleaver) used by !(I2B)[http://www.i2btech.com/] to it's presentations.
 
 To use:
 
-    title: My Presentation
-    theme: jdan/cleaver-retro
+    title: I2B Technologies
+    theme: I2BTech/cleaver-i2btech
 
     --
 
-    # Hello, world!
-    ## My new presentation
+    # I2B Technologies
+    ## Titulo
