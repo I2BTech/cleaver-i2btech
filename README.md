@@ -2,7 +2,7 @@
 
 Dark/base theme for [Cleaver](http://jdan.github.io/cleaver) used by ![I2B](http://www.i2btech.com/) to it's presentations.
 
-![cleaver-i2btech](https://cdn.rawgit.com/I2BTech/cleaver-i2btech/master/screenshot.png=650x)
+![cleaver-i2btech]()
 
 ###Use:
 
