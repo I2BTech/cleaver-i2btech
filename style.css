@@ -48,6 +48,20 @@ em {
   border-bottom: 1px solid #666;
 }
 
+.controls {
+  bottom: 10px;
+}
+  .controls .arrow {
+    border-width: 20px;
+    margin-right: 10px;
+  }
+    .controls .arrow.prev {
+      border-right-width: 30px;
+    }
+    .controls .arrow.next {
+      border-left-width: 30px;
+    }
+
 .progress {
   top: auto;
   bottom: 0;

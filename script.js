@@ -13,4 +13,6 @@ s.parentNode.insertBefore(wf, s);
 })();
 
 // Colorful console.log
-console.log('%c I2B Technologies ', 'background:#000; color:#f00');
+console.log('%c                      ', 'background:#000; color:#f00');
+console.log('%c   I2B Technologies   ', 'background:#000; color:#f00');
+console.log('%c                      ', 'background:#000; color:#f00');
