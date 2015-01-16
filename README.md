@@ -4,7 +4,7 @@ Dark/base theme for [Cleaver](http://jdan.github.io/cleaver) used by [I2B](http:
 
 ![cleaver-i2btech](https://cdn.rawgit.com/I2BTech/cleaver-i2btech/master/screenshot.png)
 
-###Use:
+###Use
 
     title: I2B Technologies
     theme: I2BTech/cleaver-i2btech
@@ -13,3 +13,10 @@ Dark/base theme for [Cleaver](http://jdan.github.io/cleaver) used by [I2B](http:
 
     # I2B Technologies
     ## Titulo
+
+###Support
+
+	- Chrome (latest)
+	- Firefox (latest)
+	- IE10 (probably)
+	- Mobile browsers (supported)
