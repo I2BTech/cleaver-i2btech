@@ -67,10 +67,13 @@ em {
   -webkit-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
 }
-.slide.hidden {
-  opacity: 0;
-}
-
+  .slide.hidden {
+    opacity: 0;
+  }
+  .slide-content {
+    position: relative;
+    z-index: 99;
+  }
 .controls {
   bottom: 10px;
 }
