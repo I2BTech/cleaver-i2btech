@@ -1,15 +1,8 @@
 body {
-  color: #eee;
+  color: #282828;
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  background:
-    radial-gradient(black 15%, transparent 16%) 0 0,
-    radial-gradient(black 15%, transparent 16%) 8px 8px,
-    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
-    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
-  background-color:#282828;
-  background-size:16px 16px; 
-  
+  background-color:#fff;
 }
 body:before {
   content: "";
@@ -41,7 +34,7 @@ a {
   padding: 35px 30px;
 }
 pre code {
-  color: #ccc;
+  color: #666;
   font-size: 140%;
 }
 
@@ -126,5 +119,5 @@ table {
   background-repeat: no-repeat;
 }
   .slide.bg-cover .slide-content {
-    background-color: rgba(0,0,0,.4);
+    background-color: rgba(255,255,255,.4);
   }
