@@ -73,6 +73,7 @@ em {
   .controls .arrow {
     border-width: 20px;
     margin-right: 10px;
+    border-color: #ccc;
   }
     .controls .arrow.prev {
       border-right-width: 30px;
