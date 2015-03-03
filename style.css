@@ -73,13 +73,14 @@ em {
   .controls .arrow {
     border-width: 20px;
     margin-right: 10px;
-    border-color: #ccc;
   }
     .controls .arrow.prev {
       border-right-width: 30px;
+      border-right-color: #ccc;
     }
     .controls .arrow.next {
       border-left-width: 30px;
+      border-left-color: #ccc;
     }
 
 .progress {
