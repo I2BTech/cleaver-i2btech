@@ -99,9 +99,10 @@ table {
   table th {
     background-color: white;
     color: black;
+    font-size: .8em;
   }
   table td {
-    background-color: rgba(255,255,255,.1);
+    background-color: rgba(0,0,0,.05);
     padding: .5em;
     font-size: 70%;
   }
